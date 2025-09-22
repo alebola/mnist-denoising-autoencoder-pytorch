@@ -17,9 +17,9 @@ It’s a practical example of **Deep Learning for Computer Vision**, showcasing 
 ## 📂 Project Structure
 ```
 notebooks/
-autoencoder_mnist.ipynb # main notebook (training & evaluation)
-data/ # MNIST is downloaded automatically
-requirements.txt # dependencies
+autoencoder_mnist.ipynb    # main notebook (training & evaluation)
+data/                      # MNIST is downloaded automatically
+requirements.txt           # dependencies
 README.md
 ```
 
